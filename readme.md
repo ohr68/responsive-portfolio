@@ -1,0 +1,1 @@
+This project can be accessed on this link: https://ohr68.github.io/responsive-portfolio/
